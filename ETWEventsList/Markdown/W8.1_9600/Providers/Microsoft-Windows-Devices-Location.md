@@ -1,0 +1,4 @@
+Provider                            |  Level        |  Event ID  |  Version  |  Channel                                         |  Task              |  Opcode  |  Keyword  |  Message
+------------------------------------|---------------|------------|-----------|--------------------------------------------------|--------------------|----------|-----------|---------
+Microsoft-Windows-Devices-Location  |  Information  |  100       |  0        |  Microsoft.Windows.Devices.Location-Performance  |  Performance Task  |  Start   |           |
+Microsoft-Windows-Devices-Location  |  Information  |  101       |  0        |  Microsoft.Windows.Devices.Location-Performance  |  Performance Task  |  Stop    |           |

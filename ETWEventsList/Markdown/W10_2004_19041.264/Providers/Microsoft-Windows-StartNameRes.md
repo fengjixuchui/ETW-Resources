@@ -1,0 +1,3 @@
+Provider                        |  Level        |  Event ID  |  Version  |  Channel  |  Task  |  Opcode               |  Keyword               |  Message
+--------------------------------|---------------|------------|-----------|-----------|--------|-----------------------|------------------------|---------
+Microsoft-Windows-StartNameRes  |  Information  |  1         |  0        |           |        |  Opcode_StartNameRes  |  Keyword_StartNameRes  |
