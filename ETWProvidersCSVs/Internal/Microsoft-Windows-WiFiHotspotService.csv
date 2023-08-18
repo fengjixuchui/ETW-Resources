@@ -3,6 +3,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,22H2,Pro,2022/10/18,22621.674,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,22H2,Pro,2022/09/20,22621.382,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 11,22H2,Pro,2023/03/21,22621.1413,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 11,22H2,Pro,2023/02/21,22621.1265,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 11,22H2,Pro,2023/01/17,22621.1105,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro,2022/09/20,22000.978,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro,2022/08/16,22000.856,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro,2022/07/19,22000.795,,
@@ -15,12 +18,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro,2021/12/14,22000.376,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro,2021/11/09,22000.318,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro,2021/09/16,22000.194,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro,2023/03/21,22000.1696,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro,2023/02/21,22000.1574,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro,2023/01/17,22000.1455,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro,2022/12/20,22000.1335,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro,2022/11/15,22000.1219,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro,2022/10/18,22000.1098,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 10,22H2,Pro,2023/03/21,19045.2728,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 10,22H2,Pro,2023/02/21,19045.2604,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 10,22H2,Pro,2023/01/17,19045.2486,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,22H2,Pro,2022/12/20,19045.2364,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,22H2,Pro,2022/11/15,19045.2251,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 10,21H2,Pro,2023/03/21,19044.2728,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 10,21H2,Pro,2023/02/21,19044.2604,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 10,21H2,Pro,2023/01/17,19044.2486,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,21H2,Pro,2022/12/20,19044.2364,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,21H2,Pro,2022/11/15,19044.2251,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,21H2,Pro,2022/10/18,19044.213,,
@@ -75,11 +87,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,2004,Pro,2020/05/27,19041.264,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,2004,Pro,2020/04/16,19041.208,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,21H1,Pro,2022/03/15,19041.1586,,
-1000,0,Information,,HotspotService,Start,Performance,Windows 10,20H2,Pro,2022/03/15,19041.1586,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,21H2,Pro,2022/03/15,19041.1586,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 10,20H2,Pro,2022/03/15,19041.1586,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,21H1,Pro,2022/02/15,19041.1526,,
-1000,0,Information,,HotspotService,Start,Performance,Windows 10,20H2,Pro,2022/02/15,19041.1526,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,21H2,Pro,2022/02/15,19041.1526,,
+1000,0,Information,,HotspotService,Start,Performance,Windows 10,20H2,Pro,2022/02/15,19041.1526,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,20H2,Pro,2021/12/14,19041.1415,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,2004,Pro,2021/11/09,19041.1348,,
 1000,0,Information,,HotspotService,Start,Performance,Windows 10,20H2,Pro,2021/11/09,19041.1348,,
@@ -180,6 +192,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,22H2,Pro,2022/10/18,22621.674,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,22H2,Pro,2022/09/20,22621.382,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 11,22H2,Pro,2023/03/21,22621.1413,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 11,22H2,Pro,2023/02/21,22621.1265,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 11,22H2,Pro,2023/01/17,22621.1105,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro,2022/09/20,22000.978,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro,2022/08/16,22000.856,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro,2022/07/19,22000.795,,
@@ -192,12 +207,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro,2021/12/14,22000.376,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro,2021/11/09,22000.318,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro,2021/09/16,22000.194,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro,2023/03/21,22000.1696,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro,2023/02/21,22000.1574,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro,2023/01/17,22000.1455,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro,2022/12/20,22000.1335,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro,2022/11/15,22000.1219,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro,2022/10/18,22000.1098,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 10,22H2,Pro,2023/03/21,19045.2728,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 10,22H2,Pro,2023/02/21,19045.2604,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 10,22H2,Pro,2023/01/17,19045.2486,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,22H2,Pro,2022/12/20,19045.2364,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,22H2,Pro,2022/11/15,19045.2251,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 10,21H2,Pro,2023/03/21,19044.2728,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 10,21H2,Pro,2023/02/21,19044.2604,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 10,21H2,Pro,2023/01/17,19044.2486,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,21H2,Pro,2022/12/20,19044.2364,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,21H2,Pro,2022/11/15,19044.2251,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,21H2,Pro,2022/10/18,19044.213,,
@@ -252,11 +276,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,2004,Pro,2020/05/27,19041.264,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,2004,Pro,2020/04/16,19041.208,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,21H1,Pro,2022/03/15,19041.1586,,
-1001,0,Information,,HotspotService,Stop,Performance,Windows 10,20H2,Pro,2022/03/15,19041.1586,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,21H2,Pro,2022/03/15,19041.1586,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 10,20H2,Pro,2022/03/15,19041.1586,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,21H1,Pro,2022/02/15,19041.1526,,
-1001,0,Information,,HotspotService,Stop,Performance,Windows 10,20H2,Pro,2022/02/15,19041.1526,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,21H2,Pro,2022/02/15,19041.1526,,
+1001,0,Information,,HotspotService,Stop,Performance,Windows 10,20H2,Pro,2022/02/15,19041.1526,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,20H2,Pro,2021/12/14,19041.1415,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,2004,Pro,2021/11/09,19041.1348,,
 1001,0,Information,,HotspotService,Stop,Performance,Windows 10,20H2,Pro,2021/11/09,19041.1348,,
@@ -357,6 +381,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Information,,HotspotService,,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
 1002,0,Information,,HotspotService,,Performance,Windows 11,22H2,Pro,2022/10/18,22621.674,,
 1002,0,Information,,HotspotService,,Performance,Windows 11,22H2,Pro,2022/09/20,22621.382,,
+1002,0,Information,,HotspotService,,Performance,Windows 11,22H2,Pro,2023/03/21,22621.1413,,
+1002,0,Information,,HotspotService,,Performance,Windows 11,22H2,Pro,2023/02/21,22621.1265,,
+1002,0,Information,,HotspotService,,Performance,Windows 11,22H2,Pro,2023/01/17,22621.1105,,
 1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2022/09/20,22000.978,,
 1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2022/08/16,22000.856,,
 1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2022/07/19,22000.795,,
@@ -369,12 +396,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2021/12/14,22000.376,,
 1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2021/11/09,22000.318,,
 1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2021/09/16,22000.194,,
+1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2023/03/21,22000.1696,,
+1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2023/02/21,22000.1574,,
+1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2023/01/17,22000.1455,,
 1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2022/12/20,22000.1335,,
 1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2022/11/15,22000.1219,,
 1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2022/10/18,22000.1098,,
 1002,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,,
+1002,0,Information,,HotspotService,,Performance,Windows 10,22H2,Pro,2023/03/21,19045.2728,,
+1002,0,Information,,HotspotService,,Performance,Windows 10,22H2,Pro,2023/02/21,19045.2604,,
+1002,0,Information,,HotspotService,,Performance,Windows 10,22H2,Pro,2023/01/17,19045.2486,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,22H2,Pro,2022/12/20,19045.2364,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,22H2,Pro,2022/11/15,19045.2251,,
+1002,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2023/03/21,19044.2728,,
+1002,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2023/02/21,19044.2604,,
+1002,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2023/01/17,19044.2486,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2022/12/20,19044.2364,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2022/11/15,19044.2251,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2022/10/18,19044.213,,
@@ -429,11 +465,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Information,,HotspotService,,Performance,Windows 10,2004,Pro,2020/05/27,19041.264,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,2004,Pro,2020/04/16,19041.208,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,21H1,Pro,2022/03/15,19041.1586,,
-1002,0,Information,,HotspotService,,Performance,Windows 10,20H2,Pro,2022/03/15,19041.1586,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2022/03/15,19041.1586,,
+1002,0,Information,,HotspotService,,Performance,Windows 10,20H2,Pro,2022/03/15,19041.1586,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,21H1,Pro,2022/02/15,19041.1526,,
-1002,0,Information,,HotspotService,,Performance,Windows 10,20H2,Pro,2022/02/15,19041.1526,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2022/02/15,19041.1526,,
+1002,0,Information,,HotspotService,,Performance,Windows 10,20H2,Pro,2022/02/15,19041.1526,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,20H2,Pro,2021/12/14,19041.1415,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,2004,Pro,2021/11/09,19041.1348,,
 1002,0,Information,,HotspotService,,Performance,Windows 10,20H2,Pro,2021/11/09,19041.1348,,
@@ -534,6 +570,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/11/15,22621.819,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/10/18,22621.674,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/09/20,22621.382,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/03/21,22621.1413,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/02/21,22621.1265,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/01/17,22621.1105,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/09/20,22000.978,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/08/16,22000.856,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/07/19,22000.795,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -546,12 +585,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/12/14,22000.376,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/11/09,22000.318,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/09/16,22000.194,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/03/21,22000.1696,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/02/21,22000.1574,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/01/17,22000.1455,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/12/20,22000.1335,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/11/15,22000.1219,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/10/18,22000.1098,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/03/21,19045.2728,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/02/21,19045.2604,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/01/17,19045.2486,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/12/20,19045.2364,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/11/15,19045.2251,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/03/21,19044.2728,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/02/21,19044.2604,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/01/17,19044.2486,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/12/20,19044.2364,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/11/15,19044.2251,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/10/18,19044.213,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -606,11 +654,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/05/27,19041.264,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/04/16,19041.208,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/03/15,19041.1586,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
-1003,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/03/15,19041.1586,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/02/15,19041.1526,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
-1003,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/02/15,19041.1526,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1003,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/12/14,19041.1415,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2021/11/09,19041.1348,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1003,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/11/09,19041.1348,Service: Init: {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -711,6 +759,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1004,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/11/15,22621.819,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/10/18,22621.674,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/09/20,22621.382,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/03/21,22621.1413,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/02/21,22621.1265,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/01/17,22621.1105,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/09/20,22000.978,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/08/16,22000.856,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/07/19,22000.795,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -723,12 +774,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/12/14,22000.376,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/11/09,22000.318,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/09/16,22000.194,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/03/21,22000.1696,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/02/21,22000.1574,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/01/17,22000.1455,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/12/20,22000.1335,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/11/15,22000.1219,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/10/18,22000.1098,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/03/21,19045.2728,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/02/21,19045.2604,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/01/17,19045.2486,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/12/20,19045.2364,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/11/15,19045.2251,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/03/21,19044.2728,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/02/21,19044.2604,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/01/17,19044.2486,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/12/20,19044.2364,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/11/15,19044.2251,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/10/18,19044.213,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -783,11 +843,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1004,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/05/27,19041.264,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/04/16,19041.208,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/03/15,19041.1586,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
-1004,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/03/15,19041.1586,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/02/15,19041.1526,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
-1004,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/02/15,19041.1526,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1004,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/12/14,19041.1415,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2021/11/09,19041.1348,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1004,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/11/09,19041.1348,Service: LaunchHostProcess - {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -888,6 +948,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1005,0,Information,,HotspotService,,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 11,22H2,Pro,2022/10/18,22621.674,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 11,22H2,Pro,2022/09/20,22621.382,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 11,22H2,Pro,2023/03/21,22621.1413,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 11,22H2,Pro,2023/02/21,22621.1265,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 11,22H2,Pro,2023/01/17,22621.1105,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2022/09/20,22000.978,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2022/08/16,22000.856,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2022/07/19,22000.795,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
@@ -900,12 +963,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2021/12/14,22000.376,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2021/11/09,22000.318,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2021/09/16,22000.194,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2023/03/21,22000.1696,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2023/02/21,22000.1574,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2023/01/17,22000.1455,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2022/12/20,22000.1335,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2022/11/15,22000.1219,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro,2022/10/18,22000.1098,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 10,22H2,Pro,2023/03/21,19045.2728,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 10,22H2,Pro,2023/02/21,19045.2604,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 10,22H2,Pro,2023/01/17,19045.2486,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,22H2,Pro,2022/12/20,19045.2364,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,22H2,Pro,2022/11/15,19045.2251,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2023/03/21,19044.2728,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2023/02/21,19044.2604,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2023/01/17,19044.2486,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2022/12/20,19044.2364,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2022/11/15,19044.2251,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2022/10/18,19044.213,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
@@ -960,11 +1032,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1005,0,Information,,HotspotService,,Performance,Windows 10,2004,Pro,2020/05/27,19041.264,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,2004,Pro,2020/04/16,19041.208,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,21H1,Pro,2022/03/15,19041.1586,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
-1005,0,Information,,HotspotService,,Performance,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2022/03/15,19041.1586,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,21H1,Pro,2022/02/15,19041.1526,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
-1005,0,Information,,HotspotService,,Performance,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,21H2,Pro,2022/02/15,19041.1526,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
+1005,0,Information,,HotspotService,,Performance,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,20H2,Pro,2021/12/14,19041.1415,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,2004,Pro,2021/11/09,19041.1348,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
 1005,0,Information,,HotspotService,,Performance,Windows 10,20H2,Pro,2021/11/09,19041.1348,Service: LaunchHostProcess SUCCEEDed - hProcess={Ptr1}; hThread={Ptr2},{Ptr1} | {Ptr2}
@@ -1065,6 +1137,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1006,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/11/15,22621.819,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/10/18,22621.674,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/09/20,22621.382,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/03/21,22621.1413,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/02/21,22621.1265,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/01/17,22621.1105,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/09/20,22000.978,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/08/16,22000.856,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/07/19,22000.795,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -1077,12 +1152,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/12/14,22000.376,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/11/09,22000.318,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/09/16,22000.194,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/03/21,22000.1696,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/02/21,22000.1574,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/01/17,22000.1455,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/12/20,22000.1335,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/11/15,22000.1219,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/10/18,22000.1098,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/03/21,19045.2728,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/02/21,19045.2604,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/01/17,19045.2486,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/12/20,19045.2364,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/11/15,19045.2251,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/03/21,19044.2728,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/02/21,19044.2604,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/01/17,19044.2486,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/12/20,19044.2364,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/11/15,19044.2251,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/10/18,19044.213,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -1137,11 +1221,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1006,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/05/27,19041.264,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/04/16,19041.208,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/03/15,19041.1586,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
-1006,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/03/15,19041.1586,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/02/15,19041.1526,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
-1006,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/02/15,19041.1526,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
+1006,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/12/14,19041.1415,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2021/11/09,19041.1348,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
 1006,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/11/09,19041.1348,Service: RpcClient: {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -1242,6 +1326,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1007,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/11/15,22621.819,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/10/18,22621.674,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/09/20,22621.382,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/03/21,22621.1413,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/02/21,22621.1265,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/01/17,22621.1105,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/09/20,22000.978,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/08/16,22000.856,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/07/19,22000.795,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
@@ -1254,12 +1341,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/12/14,22000.376,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/11/09,22000.318,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/09/16,22000.194,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/03/21,22000.1696,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/02/21,22000.1574,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/01/17,22000.1455,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/12/20,22000.1335,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/11/15,22000.1219,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/10/18,22000.1098,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/03/21,19045.2728,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/02/21,19045.2604,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/01/17,19045.2486,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/12/20,19045.2364,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/11/15,19045.2251,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/03/21,19044.2728,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/02/21,19044.2604,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/01/17,19044.2486,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/12/20,19044.2364,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/11/15,19044.2251,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/10/18,19044.213,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
@@ -1314,11 +1410,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1007,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/05/27,19041.264,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/04/16,19041.208,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/03/15,19041.1586,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
-1007,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/03/15,19041.1586,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/02/15,19041.1526,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
-1007,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/02/15,19041.1526,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
+1007,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/12/14,19041.1415,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2021/11/09,19041.1348,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
 1007,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/11/09,19041.1348,Service: Notification Event - {uString}; Value={Dword},{uString} | {Dword}
@@ -1419,6 +1515,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1008,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/11/15,22621.819,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/10/18,22621.674,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/09/20,22621.382,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/03/21,22621.1413,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/02/21,22621.1265,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/01/17,22621.1105,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/09/20,22000.978,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/08/16,22000.856,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/07/19,22000.795,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -1431,12 +1530,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/12/14,22000.376,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/11/09,22000.318,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/09/16,22000.194,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/03/21,22000.1696,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/02/21,22000.1574,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/01/17,22000.1455,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/12/20,22000.1335,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/11/15,22000.1219,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/10/18,22000.1098,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/03/21,19045.2728,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/02/21,19045.2604,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/01/17,19045.2486,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/12/20,19045.2364,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/11/15,19045.2251,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/03/21,19044.2728,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/02/21,19044.2604,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/01/17,19044.2486,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/12/20,19044.2364,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/11/15,19044.2251,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/10/18,19044.213,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -1491,11 +1599,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1008,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/05/27,19041.264,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/04/16,19041.208,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/03/15,19041.1586,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
-1008,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/03/15,19041.1586,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/02/15,19041.1526,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
-1008,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/02/15,19041.1526,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1008,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/12/14,19041.1415,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2021/11/09,19041.1348,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1008,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/11/09,19041.1348,Service: Notificaton Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -1596,6 +1704,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1009,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/11/15,22621.819,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/10/18,22621.674,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/09/20,22621.382,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/03/21,22621.1413,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/02/21,22621.1265,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/01/17,22621.1105,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/09/20,22000.978,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/08/16,22000.856,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/07/19,22000.795,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
@@ -1608,12 +1719,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/12/14,22000.376,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/11/09,22000.318,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/09/16,22000.194,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/03/21,22000.1696,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/02/21,22000.1574,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/01/17,22000.1455,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/12/20,22000.1335,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/11/15,22000.1219,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/10/18,22000.1098,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/03/21,19045.2728,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/02/21,19045.2604,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/01/17,19045.2486,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/12/20,19045.2364,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/11/15,19045.2251,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/03/21,19044.2728,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/02/21,19044.2604,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/01/17,19044.2486,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/12/20,19044.2364,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/11/15,19044.2251,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/10/18,19044.213,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
@@ -1668,11 +1788,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1009,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/05/27,19041.264,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/04/16,19041.208,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/03/15,19041.1586,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
-1009,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/03/15,19041.1586,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/02/15,19041.1526,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
-1009,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/02/15,19041.1526,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
+1009,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/12/14,19041.1415,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2021/11/09,19041.1348,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
 1009,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/11/09,19041.1348,Service: Plugin Event - {uString}; Value={Dword},{uString} | {Dword}
@@ -1773,6 +1893,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/11/15,22621.819,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/10/18,22621.674,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/09/20,22621.382,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/03/21,22621.1413,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/02/21,22621.1265,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/01/17,22621.1105,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/09/20,22000.978,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/08/16,22000.856,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/07/19,22000.795,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -1785,12 +1908,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/12/14,22000.376,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/11/09,22000.318,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/09/16,22000.194,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/03/21,22000.1696,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/02/21,22000.1574,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/01/17,22000.1455,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/12/20,22000.1335,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/11/15,22000.1219,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/10/18,22000.1098,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/03/21,19045.2728,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/02/21,19045.2604,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/01/17,19045.2486,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/12/20,19045.2364,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/11/15,19045.2251,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/03/21,19044.2728,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/02/21,19044.2604,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/01/17,19044.2486,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/12/20,19044.2364,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/11/15,19044.2251,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/10/18,19044.213,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -1845,11 +1977,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/05/27,19041.264,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/04/16,19041.208,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/03/15,19041.1586,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
-1010,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/03/15,19041.1586,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/02/15,19041.1526,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
-1010,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/02/15,19041.1526,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1010,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/12/14,19041.1415,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2021/11/09,19041.1348,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1010,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/11/09,19041.1348,Service: Plugin Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -1950,6 +2082,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/11/15,22621.819,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/10/18,22621.674,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/09/20,22621.382,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/03/21,22621.1413,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/02/21,22621.1265,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/01/17,22621.1105,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/09/20,22000.978,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/08/16,22000.856,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/07/19,22000.795,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
@@ -1962,12 +2097,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/12/14,22000.376,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/11/09,22000.318,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/09/16,22000.194,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/03/21,22000.1696,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/02/21,22000.1574,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/01/17,22000.1455,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/12/20,22000.1335,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/11/15,22000.1219,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/10/18,22000.1098,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/03/21,19045.2728,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/02/21,19045.2604,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/01/17,19045.2486,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/12/20,19045.2364,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/11/15,19045.2251,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/03/21,19044.2728,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/02/21,19044.2604,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/01/17,19044.2486,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/12/20,19044.2364,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/11/15,19044.2251,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/10/18,19044.213,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
@@ -2022,11 +2166,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/05/27,19041.264,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/04/16,19041.208,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/03/15,19041.1586,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
-1011,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/03/15,19041.1586,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/02/15,19041.1526,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
-1011,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/02/15,19041.1526,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
+1011,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/12/14,19041.1415,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2021/11/09,19041.1348,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
 1011,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/11/09,19041.1348,Service: Connect Event - {uString}; Value={Dword},{uString} | {Dword}
@@ -2127,6 +2271,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1012,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/11/15,22621.819,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/10/18,22621.674,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/09/20,22621.382,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/03/21,22621.1413,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/02/21,22621.1265,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/01/17,22621.1105,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/09/20,22000.978,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/08/16,22000.856,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/07/19,22000.795,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -2139,12 +2286,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/12/14,22000.376,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/11/09,22000.318,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/09/16,22000.194,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/03/21,22000.1696,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/02/21,22000.1574,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/01/17,22000.1455,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/12/20,22000.1335,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/11/15,22000.1219,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/10/18,22000.1098,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/03/21,19045.2728,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/02/21,19045.2604,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/01/17,19045.2486,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/12/20,19045.2364,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/11/15,19045.2251,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/03/21,19044.2728,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/02/21,19044.2604,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/01/17,19044.2486,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/12/20,19044.2364,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/11/15,19044.2251,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/10/18,19044.213,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -2199,11 +2355,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1012,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/05/27,19041.264,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/04/16,19041.208,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/03/15,19041.1586,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
-1012,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/03/15,19041.1586,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/02/15,19041.1526,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
-1012,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/02/15,19041.1526,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
+1012,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/12/14,19041.1415,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2021/11/09,19041.1348,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
 1012,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/11/09,19041.1348,Service: Connect Error - {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -2304,6 +2460,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2000,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/11/15,22621.819,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/10/18,22621.674,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2022/09/20,22621.382,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/03/21,22621.1413,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/02/21,22621.1265,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 11,22H2,Pro,2023/01/17,22621.1105,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/09/20,22000.978,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/08/16,22000.856,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/07/19,22000.795,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
@@ -2316,12 +2475,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/12/14,22000.376,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/11/09,22000.318,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2021/09/16,22000.194,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/03/21,22000.1696,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/02/21,22000.1574,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2023/01/17,22000.1455,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/12/20,22000.1335,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/11/15,22000.1219,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro,2022/10/18,22000.1098,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/03/21,19045.2728,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/02/21,19045.2604,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2023/01/17,19045.2486,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/12/20,19045.2364,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,22H2,Pro,2022/11/15,19045.2251,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/03/21,19044.2728,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/02/21,19044.2604,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2023/01/17,19044.2486,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/12/20,19044.2364,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/11/15,19044.2251,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/10/18,19044.213,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
@@ -2376,11 +2544,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2000,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/05/27,19041.264,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2020/04/16,19041.208,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/03/15,19041.1586,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
-2000,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/03/15,19041.1586,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,21H1,Pro,2022/02/15,19041.1526,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
-2000,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,21H2,Pro,2022/02/15,19041.1526,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
+2000,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/12/14,19041.1415,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,2004,Pro,2021/11/09,19041.1348,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
 2000,0,Information,,HotspotService,,Error,Windows 10,20H2,Pro,2021/11/09,19041.1348,Test: S1={uString1}; S2={uString2}; D1={Dword1}; D2={Dword2}; D3={Dword3},{uString1} | {uString2} | {Dword1} | {Dword2} | {Dword3}
@@ -2481,6 +2649,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3000,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2022/11/15,22621.819,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2022/10/18,22621.674,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2022/09/20,22621.382,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2023/03/21,22621.1413,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2023/02/21,22621.1265,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2023/01/17,22621.1105,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/09/20,22000.978,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/08/16,22000.856,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/07/19,22000.795,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
@@ -2493,12 +2664,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2021/12/14,22000.376,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2021/11/09,22000.318,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2021/09/16,22000.194,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2023/03/21,22000.1696,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2023/02/21,22000.1574,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2023/01/17,22000.1455,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/12/20,22000.1335,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/11/15,22000.1219,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/10/18,22000.1098,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2023/03/21,19045.2728,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2023/02/21,19045.2604,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2023/01/17,19045.2486,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2022/12/20,19045.2364,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2022/11/15,19045.2251,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2023/03/21,19044.2728,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2023/02/21,19044.2604,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2023/01/17,19044.2486,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/12/20,19044.2364,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/11/15,19044.2251,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/10/18,19044.213,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
@@ -2553,11 +2733,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3000,0,Information,,HotspotUtils,,Error,Windows 10,2004,Pro,2020/05/27,19041.264,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,2004,Pro,2020/04/16,19041.208,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,21H1,Pro,2022/03/15,19041.1586,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
-3000,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/03/15,19041.1586,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,21H1,Pro,2022/02/15,19041.1526,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
-3000,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/02/15,19041.1526,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
+3000,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2021/12/14,19041.1415,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,2004,Pro,2021/11/09,19041.1348,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
 3000,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2021/11/09,19041.1348,Utils: Allocate Memory FAILed: Error={Dword1}; ByteCount={Dword2},{Dword1} | {Dword2}
@@ -2658,6 +2838,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,22H2,Pro,2022/11/15,22621.819,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,22H2,Pro,2022/10/18,22621.674,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,22H2,Pro,2022/09/20,22621.382,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 11,22H2,Pro,2023/03/21,22621.1413,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 11,22H2,Pro,2023/02/21,22621.1265,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 11,22H2,Pro,2023/01/17,22621.1105,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2022/09/20,22000.978,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2022/08/16,22000.856,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2022/07/19,22000.795,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
@@ -2670,12 +2853,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2021/12/14,22000.376,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2021/11/09,22000.318,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2021/09/16,22000.194,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2023/03/21,22000.1696,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2023/02/21,22000.1574,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2023/01/17,22000.1455,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2022/12/20,22000.1335,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2022/11/15,22000.1219,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2022/10/18,22000.1098,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 10,22H2,Pro,2023/03/21,19045.2728,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 10,22H2,Pro,2023/02/21,19045.2604,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 10,22H2,Pro,2023/01/17,19045.2486,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,22H2,Pro,2022/12/20,19045.2364,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,22H2,Pro,2022/11/15,19045.2251,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2023/03/21,19044.2728,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2023/02/21,19044.2604,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2023/01/17,19044.2486,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2022/12/20,19044.2364,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2022/11/15,19044.2251,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2022/10/18,19044.213,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
@@ -2730,11 +2922,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,2004,Pro,2020/05/27,19041.264,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,2004,Pro,2020/04/16,19041.208,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,21H1,Pro,2022/03/15,19041.1586,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
-3001,0,Information,,HotspotUtils,,Memory,Windows 10,20H2,Pro,2022/03/15,19041.1586,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2022/03/15,19041.1586,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 10,20H2,Pro,2022/03/15,19041.1586,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,21H1,Pro,2022/02/15,19041.1526,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
-3001,0,Information,,HotspotUtils,,Memory,Windows 10,20H2,Pro,2022/02/15,19041.1526,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2022/02/15,19041.1526,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
+3001,0,Information,,HotspotUtils,,Memory,Windows 10,20H2,Pro,2022/02/15,19041.1526,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,20H2,Pro,2021/12/14,19041.1415,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,2004,Pro,2021/11/09,19041.1348,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
 3001,0,Information,,HotspotUtils,,Memory,Windows 10,20H2,Pro,2021/11/09,19041.1348,Utils: Allocated Memory: 0x{Ptr} ByteCount={Dword},{Ptr} | {Dword}
@@ -2835,6 +3027,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,22H2,Pro,2022/11/15,22621.819,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,22H2,Pro,2022/10/18,22621.674,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,22H2,Pro,2022/09/20,22621.382,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 11,22H2,Pro,2023/03/21,22621.1413,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 11,22H2,Pro,2023/02/21,22621.1265,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 11,22H2,Pro,2023/01/17,22621.1105,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2022/09/20,22000.978,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2022/08/16,22000.856,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2022/07/19,22000.795,Utils: Freeing Memory: 0x{Ptr},{Ptr}
@@ -2847,12 +3042,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2021/12/14,22000.376,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2021/11/09,22000.318,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2021/09/16,22000.194,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2023/03/21,22000.1696,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2023/02/21,22000.1574,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2023/01/17,22000.1455,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2022/12/20,22000.1335,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2022/11/15,22000.1219,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro,2022/10/18,22000.1098,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 10,22H2,Pro,2023/03/21,19045.2728,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 10,22H2,Pro,2023/02/21,19045.2604,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 10,22H2,Pro,2023/01/17,19045.2486,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,22H2,Pro,2022/12/20,19045.2364,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,22H2,Pro,2022/11/15,19045.2251,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2023/03/21,19044.2728,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2023/02/21,19044.2604,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2023/01/17,19044.2486,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2022/12/20,19044.2364,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2022/11/15,19044.2251,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2022/10/18,19044.213,Utils: Freeing Memory: 0x{Ptr},{Ptr}
@@ -2907,11 +3111,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,2004,Pro,2020/05/27,19041.264,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,2004,Pro,2020/04/16,19041.208,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,21H1,Pro,2022/03/15,19041.1586,Utils: Freeing Memory: 0x{Ptr},{Ptr}
-3002,0,Information,,HotspotUtils,,Memory,Windows 10,20H2,Pro,2022/03/15,19041.1586,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2022/03/15,19041.1586,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 10,20H2,Pro,2022/03/15,19041.1586,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,21H1,Pro,2022/02/15,19041.1526,Utils: Freeing Memory: 0x{Ptr},{Ptr}
-3002,0,Information,,HotspotUtils,,Memory,Windows 10,20H2,Pro,2022/02/15,19041.1526,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,21H2,Pro,2022/02/15,19041.1526,Utils: Freeing Memory: 0x{Ptr},{Ptr}
+3002,0,Information,,HotspotUtils,,Memory,Windows 10,20H2,Pro,2022/02/15,19041.1526,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,20H2,Pro,2021/12/14,19041.1415,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,2004,Pro,2021/11/09,19041.1348,Utils: Freeing Memory: 0x{Ptr},{Ptr}
 3002,0,Information,,HotspotUtils,,Memory,Windows 10,20H2,Pro,2021/11/09,19041.1348,Utils: Freeing Memory: 0x{Ptr},{Ptr}
@@ -3012,6 +3216,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3003,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2022/11/15,22621.819,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2022/10/18,22621.674,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2022/09/20,22621.382,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2023/03/21,22621.1413,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2023/02/21,22621.1265,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2023/01/17,22621.1105,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/09/20,22000.978,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/08/16,22000.856,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/07/19,22000.795,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
@@ -3024,12 +3231,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2021/12/14,22000.376,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2021/11/09,22000.318,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2021/09/16,22000.194,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2023/03/21,22000.1696,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2023/02/21,22000.1574,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2023/01/17,22000.1455,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/12/20,22000.1335,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/11/15,22000.1219,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/10/18,22000.1098,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2023/03/21,19045.2728,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2023/02/21,19045.2604,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2023/01/17,19045.2486,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2022/12/20,19045.2364,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2022/11/15,19045.2251,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2023/03/21,19044.2728,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2023/02/21,19044.2604,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2023/01/17,19044.2486,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/12/20,19044.2364,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/11/15,19044.2251,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/10/18,19044.213,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
@@ -3084,11 +3300,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3003,0,Information,,HotspotUtils,,Error,Windows 10,2004,Pro,2020/05/27,19041.264,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,2004,Pro,2020/04/16,19041.208,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,21H1,Pro,2022/03/15,19041.1586,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
-3003,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/03/15,19041.1586,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,21H1,Pro,2022/02/15,19041.1526,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
-3003,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/02/15,19041.1526,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
+3003,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2021/12/14,19041.1415,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,2004,Pro,2021/11/09,19041.1348,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
 3003,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2021/11/09,19041.1348,Utils: UuidVector: 0x{uString}; ByteCount={Dword},{uString} | {Dword}
@@ -3189,6 +3405,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3004,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2022/11/15,22621.819,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2022/10/18,22621.674,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2022/09/20,22621.382,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2023/03/21,22621.1413,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2023/02/21,22621.1265,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 11,22H2,Pro,2023/01/17,22621.1105,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/09/20,22000.978,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/08/16,22000.856,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/07/19,22000.795,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -3201,12 +3420,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2021/12/14,22000.376,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2021/11/09,22000.318,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2021/09/16,22000.194,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2023/03/21,22000.1696,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2023/02/21,22000.1574,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2023/01/17,22000.1455,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/12/20,22000.1335,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/11/15,22000.1219,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro,2022/10/18,22000.1098,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2023/03/21,19045.2728,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2023/02/21,19045.2604,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2023/01/17,19045.2486,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2022/12/20,19045.2364,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,22H2,Pro,2022/11/15,19045.2251,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2023/03/21,19044.2728,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2023/02/21,19044.2604,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2023/01/17,19044.2486,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/12/20,19044.2364,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/11/15,19044.2251,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/10/18,19044.213,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -3261,11 +3489,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3004,0,Information,,HotspotUtils,,Error,Windows 10,2004,Pro,2020/05/27,19041.264,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,2004,Pro,2020/04/16,19041.208,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,21H1,Pro,2022/03/15,19041.1586,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
-3004,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/03/15,19041.1586,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2022/03/15,19041.1586,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,21H1,Pro,2022/02/15,19041.1526,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
-3004,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,21H2,Pro,2022/02/15,19041.1526,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
+3004,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2022/02/15,19041.1526,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2021/12/14,19041.1415,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,2004,Pro,2021/11/09,19041.1348,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
 3004,0,Information,,HotspotUtils,,Error,Windows 10,20H2,Pro,2021/11/09,19041.1348,Utils: {uString} FAILed; Error={Dword},{uString} | {Dword}
@@ -3366,6 +3594,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4000,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/11/15,22621.819,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/10/18,22621.674,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/09/20,22621.382,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/03/21,22621.1413,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/02/21,22621.1265,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/01/17,22621.1105,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/09/20,22000.978,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/08/16,22000.856,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/07/19,22000.795,:: {aString},{aString}
@@ -3378,12 +3609,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/12/14,22000.376,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/11/09,22000.318,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/09/16,22000.194,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/03/21,22000.1696,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/02/21,22000.1574,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/01/17,22000.1455,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/12/20,22000.1335,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/11/15,22000.1219,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/10/18,22000.1098,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/03/21,19045.2728,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/02/21,19045.2604,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/01/17,19045.2486,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/12/20,19045.2364,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/11/15,19045.2251,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/03/21,19044.2728,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/02/21,19044.2604,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/01/17,19044.2486,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/12/20,19044.2364,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/11/15,19044.2251,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/10/18,19044.213,:: {aString},{aString}
@@ -3438,11 +3678,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4000,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/05/27,19041.264,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/04/16,19041.208,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/03/15,19041.1586,:: {aString},{aString}
-4000,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/03/15,19041.1586,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/02/15,19041.1526,:: {aString},{aString}
-4000,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/02/15,19041.1526,:: {aString},{aString}
+4000,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/12/14,19041.1415,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2021/11/09,19041.1348,:: {aString},{aString}
 4000,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/11/09,19041.1348,:: {aString},{aString}
@@ -3543,6 +3783,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4001,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/11/15,22621.819,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/10/18,22621.674,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/09/20,22621.382,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/03/21,22621.1413,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/02/21,22621.1265,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/01/17,22621.1105,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/09/20,22000.978,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/08/16,22000.856,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/07/19,22000.795,++ {uString}: [{Dword}],{uString} | {Dword}
@@ -3555,12 +3798,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/12/14,22000.376,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/11/09,22000.318,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/09/16,22000.194,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/03/21,22000.1696,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/02/21,22000.1574,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/01/17,22000.1455,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/12/20,22000.1335,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/11/15,22000.1219,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/10/18,22000.1098,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/03/21,19045.2728,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/02/21,19045.2604,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/01/17,19045.2486,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/12/20,19045.2364,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/11/15,19045.2251,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/03/21,19044.2728,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/02/21,19044.2604,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/01/17,19044.2486,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/12/20,19044.2364,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/11/15,19044.2251,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/10/18,19044.213,++ {uString}: [{Dword}],{uString} | {Dword}
@@ -3615,11 +3867,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4001,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/05/27,19041.264,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/04/16,19041.208,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/03/15,19041.1586,++ {uString}: [{Dword}],{uString} | {Dword}
-4001,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/03/15,19041.1586,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/02/15,19041.1526,++ {uString}: [{Dword}],{uString} | {Dword}
-4001,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/02/15,19041.1526,++ {uString}: [{Dword}],{uString} | {Dword}
+4001,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/12/14,19041.1415,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2021/11/09,19041.1348,++ {uString}: [{Dword}],{uString} | {Dword}
 4001,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/11/09,19041.1348,++ {uString}: [{Dword}],{uString} | {Dword}
@@ -3720,6 +3972,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4002,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/11/15,22621.819,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/10/18,22621.674,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/09/20,22621.382,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/03/21,22621.1413,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/02/21,22621.1265,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/01/17,22621.1105,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/09/20,22000.978,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/08/16,22000.856,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/07/19,22000.795,-- {uString}: [{Dword}],{uString} | {Dword}
@@ -3732,12 +3987,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/12/14,22000.376,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/11/09,22000.318,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/09/16,22000.194,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/03/21,22000.1696,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/02/21,22000.1574,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/01/17,22000.1455,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/12/20,22000.1335,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/11/15,22000.1219,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/10/18,22000.1098,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/03/21,19045.2728,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/02/21,19045.2604,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/01/17,19045.2486,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/12/20,19045.2364,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/11/15,19045.2251,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/03/21,19044.2728,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/02/21,19044.2604,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/01/17,19044.2486,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/12/20,19044.2364,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/11/15,19044.2251,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/10/18,19044.213,-- {uString}: [{Dword}],{uString} | {Dword}
@@ -3792,11 +4056,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4002,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/05/27,19041.264,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/04/16,19041.208,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/03/15,19041.1586,-- {uString}: [{Dword}],{uString} | {Dword}
-4002,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/03/15,19041.1586,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/02/15,19041.1526,-- {uString}: [{Dword}],{uString} | {Dword}
-4002,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/02/15,19041.1526,-- {uString}: [{Dword}],{uString} | {Dword}
+4002,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/12/14,19041.1415,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2021/11/09,19041.1348,-- {uString}: [{Dword}],{uString} | {Dword}
 4002,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/11/09,19041.1348,-- {uString}: [{Dword}],{uString} | {Dword}
@@ -3897,6 +4161,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4003,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/11/15,22621.819,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/10/18,22621.674,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/09/20,22621.382,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/03/21,22621.1413,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/02/21,22621.1265,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/01/17,22621.1105,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/09/20,22000.978,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/08/16,22000.856,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/07/19,22000.795,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
@@ -3909,12 +4176,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/12/14,22000.376,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/11/09,22000.318,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/09/16,22000.194,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/03/21,22000.1696,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/02/21,22000.1574,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/01/17,22000.1455,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/12/20,22000.1335,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/11/15,22000.1219,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/10/18,22000.1098,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/03/21,19045.2728,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/02/21,19045.2604,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/01/17,19045.2486,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/12/20,19045.2364,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/11/15,19045.2251,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/03/21,19044.2728,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/02/21,19044.2604,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/01/17,19044.2486,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/12/20,19044.2364,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/11/15,19044.2251,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/10/18,19044.213,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
@@ -3969,11 +4245,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4003,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/05/27,19041.264,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/04/16,19041.208,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/03/15,19041.1586,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
-4003,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/03/15,19041.1586,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/02/15,19041.1526,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
-4003,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/02/15,19041.1526,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
+4003,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/12/14,19041.1415,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2021/11/09,19041.1348,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
 4003,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/11/09,19041.1348,    [{Dword1}]: SSID={Dword2}:{aString1}; Auth:Ciph={Dword3}:{Dword4}; Flags={Dword5}; CmName={uString1},{Dword1} | {Dword2} | {aString1} | {Dword3} | {Dword4} | {Dword5} | {uString1}
@@ -4074,6 +4350,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4004,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/11/15,22621.819,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/10/18,22621.674,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2022/09/20,22621.382,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/03/21,22621.1413,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/02/21,22621.1265,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 11,22H2,Pro,2023/01/17,22621.1105,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/09/20,22000.978,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/08/16,22000.856,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/07/19,22000.795,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
@@ -4086,12 +4365,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/12/14,22000.376,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/11/09,22000.318,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2021/09/16,22000.194,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/03/21,22000.1696,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/02/21,22000.1574,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2023/01/17,22000.1455,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/12/20,22000.1335,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/11/15,22000.1219,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro,2022/10/18,22000.1098,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/03/21,19045.2728,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/02/21,19045.2604,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2023/01/17,19045.2486,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/12/20,19045.2364,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,22H2,Pro,2022/11/15,19045.2251,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/03/21,19044.2728,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/02/21,19044.2604,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2023/01/17,19044.2486,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/12/20,19044.2364,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/11/15,19044.2251,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/10/18,19044.213,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
@@ -4146,11 +4434,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4004,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/05/27,19041.264,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2020/04/16,19041.208,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/03/15,19041.1586,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
-4004,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/03/15,19041.1586,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/03/15,19041.1586,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,21H1,Pro,2022/02/15,19041.1526,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
-4004,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,21H2,Pro,2022/02/15,19041.1526,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
+4004,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2022/02/15,19041.1526,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/12/14,19041.1415,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,2004,Pro,2021/11/09,19041.1348,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}
 4004,0,Information,,HotspotService,,Status,Windows 10,20H2,Pro,2021/11/09,19041.1348,HotspotConnectionStateChanged: CmName={uString}; NewState={Dword},{uString} | {Dword}

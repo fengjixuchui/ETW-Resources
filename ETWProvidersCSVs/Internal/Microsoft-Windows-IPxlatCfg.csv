@@ -3,6 +3,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Error,Debug Channel,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 11,22H2,Pro,2022/10/18,22621.674,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 11,22H2,Pro,2022/09/20,22621.382,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 11,22H2,Pro,2023/03/21,22621.1413,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 11,22H2,Pro,2023/02/21,22621.1265,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 11,22H2,Pro,2023/01/17,22621.1105,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2022/09/20,22000.978,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2022/08/16,22000.856,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2022/07/19,22000.795,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
@@ -15,12 +18,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2021/12/14,22000.376,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2021/11/09,22000.318,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2021/09/16,22000.194,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2023/03/21,22000.1696,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2023/02/21,22000.1574,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2023/01/17,22000.1455,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2022/12/20,22000.1335,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2022/11/15,22000.1219,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2022/10/18,22000.1098,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 10,22H2,Pro,2023/03/21,19045.2728,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 10,22H2,Pro,2023/02/21,19045.2604,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 10,22H2,Pro,2023/01/17,19045.2486,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,22H2,Pro,2022/12/20,19045.2364,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,22H2,Pro,2022/11/15,19045.2251,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2023/03/21,19044.2728,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2023/02/21,19044.2604,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2023/01/17,19044.2486,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2022/12/20,19044.2364,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2022/11/15,19044.2251,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2022/10/18,19044.213,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
@@ -75,11 +87,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Error,Debug Channel,,,,Windows 10,2004,Pro,2020/05/27,19041.264,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,2004,Pro,2020/04/16,19041.208,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,21H1,Pro,2022/03/15,19041.1586,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
-1001,0,Error,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2022/03/15,19041.1586,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,21H1,Pro,2022/02/15,19041.1526,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
-1001,0,Error,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2022/02/15,19041.1526,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
+1001,0,Error,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,20H2,Pro,2021/12/14,19041.1415,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,2004,Pro,2021/11/09,19041.1348,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
 1001,0,Error,Debug Channel,,,,Windows 10,20H2,Pro,2021/11/09,19041.1348,ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{ErrorCode} | {ErrorString}
@@ -157,6 +169,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Error,Debug Channel,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 11,22H2,Pro,2022/10/18,22621.674,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 11,22H2,Pro,2022/09/20,22621.382,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 11,22H2,Pro,2023/03/21,22621.1413,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 11,22H2,Pro,2023/02/21,22621.1265,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 11,22H2,Pro,2023/01/17,22621.1105,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2022/09/20,22000.978,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2022/08/16,22000.856,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2022/07/19,22000.795,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
@@ -169,12 +184,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2021/12/14,22000.376,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2021/11/09,22000.318,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2021/09/16,22000.194,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2023/03/21,22000.1696,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2023/02/21,22000.1574,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2023/01/17,22000.1455,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2022/12/20,22000.1335,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2022/11/15,22000.1219,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro,2022/10/18,22000.1098,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 10,22H2,Pro,2023/03/21,19045.2728,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 10,22H2,Pro,2023/02/21,19045.2604,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 10,22H2,Pro,2023/01/17,19045.2486,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,22H2,Pro,2022/12/20,19045.2364,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,22H2,Pro,2022/11/15,19045.2251,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2023/03/21,19044.2728,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2023/02/21,19044.2604,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2023/01/17,19044.2486,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2022/12/20,19044.2364,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2022/11/15,19044.2251,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2022/10/18,19044.213,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
@@ -229,11 +253,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Error,Debug Channel,,,,Windows 10,2004,Pro,2020/05/27,19041.264,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,2004,Pro,2020/04/16,19041.208,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,21H1,Pro,2022/03/15,19041.1586,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
-1002,0,Error,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2022/03/15,19041.1586,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,21H1,Pro,2022/02/15,19041.1526,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
-1002,0,Error,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,21H2,Pro,2022/02/15,19041.1526,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
+1002,0,Error,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,20H2,Pro,2021/12/14,19041.1415,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,2004,Pro,2021/11/09,19041.1348,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
 1002,0,Error,Debug Channel,,,,Windows 10,20H2,Pro,2021/11/09,19041.1348,Interface: {InterfaceLuid}; ErrorCode: {ErrorCode}; ErrorMessage: {ErrorString},{InterfaceLuid} | {ErrorCode} | {ErrorString}
@@ -311,6 +335,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/10/18,22621.674,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/09/20,22621.382,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/03/21,22621.1413,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/02/21,22621.1265,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/01/17,22621.1105,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/09/20,22000.978,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/08/16,22000.856,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/07/19,22000.795,{InfoString},{InfoString}
@@ -323,12 +350,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/12/14,22000.376,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/11/09,22000.318,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/09/16,22000.194,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/03/21,22000.1696,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/02/21,22000.1574,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/01/17,22000.1455,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/12/20,22000.1335,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/11/15,22000.1219,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/10/18,22000.1098,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/03/21,19045.2728,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/02/21,19045.2604,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/01/17,19045.2486,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/12/20,19045.2364,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/11/15,19045.2251,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/03/21,19044.2728,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/02/21,19044.2604,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/01/17,19044.2486,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/12/20,19044.2364,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/11/15,19044.2251,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/10/18,19044.213,{InfoString},{InfoString}
@@ -383,11 +419,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/05/27,19041.264,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/04/16,19041.208,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/03/15,19041.1586,{InfoString},{InfoString}
-1003,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/03/15,19041.1586,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/02/15,19041.1526,{InfoString},{InfoString}
-1003,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/02/15,19041.1526,{InfoString},{InfoString}
+1003,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/12/14,19041.1415,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2021/11/09,19041.1348,{InfoString},{InfoString}
 1003,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/11/09,19041.1348,{InfoString},{InfoString}
@@ -465,6 +501,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1005,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/10/18,22621.674,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/09/20,22621.382,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/03/21,22621.1413,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/02/21,22621.1265,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/01/17,22621.1105,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/09/20,22000.978,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/08/16,22000.856,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/07/19,22000.795,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
@@ -477,12 +516,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/12/14,22000.376,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/11/09,22000.318,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/09/16,22000.194,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/03/21,22000.1696,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/02/21,22000.1574,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/01/17,22000.1455,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/12/20,22000.1335,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/11/15,22000.1219,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/10/18,22000.1098,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/03/21,19045.2728,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/02/21,19045.2604,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/01/17,19045.2486,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/12/20,19045.2364,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/11/15,19045.2251,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/03/21,19044.2728,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/02/21,19044.2604,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/01/17,19044.2486,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/12/20,19044.2364,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/11/15,19044.2251,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/10/18,19044.213,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
@@ -537,11 +585,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1005,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/05/27,19041.264,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/04/16,19041.208,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/03/15,19041.1586,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
-1005,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/03/15,19041.1586,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/02/15,19041.1526,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
-1005,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/02/15,19041.1526,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
+1005,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/12/14,19041.1415,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2021/11/09,19041.1348,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
 1005,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/11/09,19041.1348,Synthetic IPv4 Range: {IPv4Address}/{IPv4Prefix},{IPv4Address} | {IPv4Prefix}
@@ -619,6 +667,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1006,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/10/18,22621.674,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/09/20,22621.382,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/03/21,22621.1413,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/02/21,22621.1265,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/01/17,22621.1105,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/09/20,22000.978,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/08/16,22000.856,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/07/19,22000.795,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
@@ -631,12 +682,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/12/14,22000.376,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/11/09,22000.318,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/09/16,22000.194,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/03/21,22000.1696,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/02/21,22000.1574,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/01/17,22000.1455,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/12/20,22000.1335,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/11/15,22000.1219,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/10/18,22000.1098,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/03/21,19045.2728,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/02/21,19045.2604,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/01/17,19045.2486,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/12/20,19045.2364,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/11/15,19045.2251,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/03/21,19044.2728,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/02/21,19044.2604,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/01/17,19044.2486,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/12/20,19044.2364,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/11/15,19044.2251,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/10/18,19044.213,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
@@ -691,11 +751,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1006,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/05/27,19041.264,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/04/16,19041.208,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/03/15,19041.1586,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
-1006,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/03/15,19041.1586,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/02/15,19041.1526,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
-1006,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/02/15,19041.1526,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
+1006,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/12/14,19041.1415,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2021/11/09,19041.1348,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
 1006,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/11/09,19041.1348,Interface: {InterfaceLuid}; {InfoString},{InterfaceLuid} | {InfoString}
@@ -773,6 +833,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1007,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/10/18,22621.674,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/09/20,22621.382,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/03/21,22621.1413,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/02/21,22621.1265,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/01/17,22621.1105,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/09/20,22000.978,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/08/16,22000.856,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/07/19,22000.795,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
@@ -785,12 +848,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/12/14,22000.376,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/11/09,22000.318,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/09/16,22000.194,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/03/21,22000.1696,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/02/21,22000.1574,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/01/17,22000.1455,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/12/20,22000.1335,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/11/15,22000.1219,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/10/18,22000.1098,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/03/21,19045.2728,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/02/21,19045.2604,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/01/17,19045.2486,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/12/20,19045.2364,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/11/15,19045.2251,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/03/21,19044.2728,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/02/21,19044.2604,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/01/17,19044.2486,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/12/20,19044.2364,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/11/15,19044.2251,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/10/18,19044.213,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
@@ -845,11 +917,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1007,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/05/27,19041.264,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/04/16,19041.208,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/03/15,19041.1586,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
-1007,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/03/15,19041.1586,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/02/15,19041.1526,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
-1007,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/02/15,19041.1526,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1007,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/12/14,19041.1415,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2021/11/09,19041.1348,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1007,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/11/09,19041.1348,Local Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
@@ -927,6 +999,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1008,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/10/18,22621.674,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/09/20,22621.382,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/03/21,22621.1413,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/02/21,22621.1265,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/01/17,22621.1105,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/09/20,22000.978,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/08/16,22000.856,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/07/19,22000.795,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
@@ -939,12 +1014,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/12/14,22000.376,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/11/09,22000.318,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/09/16,22000.194,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/03/21,22000.1696,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/02/21,22000.1574,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/01/17,22000.1455,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/12/20,22000.1335,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/11/15,22000.1219,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/10/18,22000.1098,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/03/21,19045.2728,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/02/21,19045.2604,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/01/17,19045.2486,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/12/20,19045.2364,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/11/15,19045.2251,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/03/21,19044.2728,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/02/21,19044.2604,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/01/17,19044.2486,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/12/20,19044.2364,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/11/15,19044.2251,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/10/18,19044.213,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
@@ -999,11 +1083,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1008,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/05/27,19041.264,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/04/16,19041.208,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/03/15,19041.1586,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
-1008,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/03/15,19041.1586,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/02/15,19041.1526,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
-1008,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/02/15,19041.1526,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
+1008,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/12/14,19041.1415,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2021/11/09,19041.1348,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
 1008,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/11/09,19041.1348,InterfaceLuid: {InterfaceLuid}; Synthetic IPv4 Address: {IPv4Address},{InterfaceLuid} | {IPv4Address}
@@ -1081,6 +1165,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1009,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/10/18,22621.674,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/09/20,22621.382,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/03/21,22621.1413,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/02/21,22621.1265,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/01/17,22621.1105,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/09/20,22000.978,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/08/16,22000.856,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/07/19,22000.795,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
@@ -1093,12 +1180,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/12/14,22000.376,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/11/09,22000.318,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/09/16,22000.194,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/03/21,22000.1696,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/02/21,22000.1574,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/01/17,22000.1455,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/12/20,22000.1335,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/11/15,22000.1219,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/10/18,22000.1098,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/03/21,19045.2728,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/02/21,19045.2604,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/01/17,19045.2486,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/12/20,19045.2364,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/11/15,19045.2251,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/03/21,19044.2728,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/02/21,19044.2604,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/01/17,19044.2486,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/12/20,19044.2364,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/11/15,19044.2251,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/10/18,19044.213,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
@@ -1153,11 +1249,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1009,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/05/27,19041.264,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/04/16,19041.208,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/03/15,19041.1586,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
-1009,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/03/15,19041.1586,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/02/15,19041.1526,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
-1009,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/02/15,19041.1526,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
+1009,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/12/14,19041.1415,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2021/11/09,19041.1348,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
 1009,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/11/09,19041.1348,InterfaceLuid: {InterfaceLuid}; Synthetic IPv6 Address: {IPv6Address},{InterfaceLuid} | {IPv6Address}
@@ -1235,6 +1331,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/10/18,22621.674,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/09/20,22621.382,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/03/21,22621.1413,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/02/21,22621.1265,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/01/17,22621.1105,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/09/20,22000.978,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/08/16,22000.856,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/07/19,22000.795,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
@@ -1247,12 +1346,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/12/14,22000.376,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/11/09,22000.318,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/09/16,22000.194,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/03/21,22000.1696,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/02/21,22000.1574,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/01/17,22000.1455,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/12/20,22000.1335,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/11/15,22000.1219,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/10/18,22000.1098,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/03/21,19045.2728,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/02/21,19045.2604,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/01/17,19045.2486,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/12/20,19045.2364,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/11/15,19045.2251,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/03/21,19044.2728,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/02/21,19044.2604,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/01/17,19044.2486,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/12/20,19044.2364,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/11/15,19044.2251,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/10/18,19044.213,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
@@ -1307,11 +1415,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/05/27,19041.264,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/04/16,19041.208,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/03/15,19041.1586,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
-1010,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/03/15,19041.1586,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/02/15,19041.1526,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
-1010,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/02/15,19041.1526,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
+1010,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/12/14,19041.1415,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2021/11/09,19041.1348,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
 1010,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/11/09,19041.1348,IPxlatInterface::Cleanup: InterfaceLuid {InterfaceLuid},{InterfaceLuid}
@@ -1389,6 +1497,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/10/18,22621.674,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2022/09/20,22621.382,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/03/21,22621.1413,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/02/21,22621.1265,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 11,22H2,Pro,2023/01/17,22621.1105,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/09/20,22000.978,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/08/16,22000.856,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/07/19,22000.795,{InfoString} {MTU},{InfoString} | {MTU}
@@ -1401,12 +1512,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/12/14,22000.376,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/11/09,22000.318,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2021/09/16,22000.194,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/03/21,22000.1696,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/02/21,22000.1574,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2023/01/17,22000.1455,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/12/20,22000.1335,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/11/15,22000.1219,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro,2022/10/18,22000.1098,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/03/21,19045.2728,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/02/21,19045.2604,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2023/01/17,19045.2486,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/12/20,19045.2364,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,22H2,Pro,2022/11/15,19045.2251,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/03/21,19044.2728,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/02/21,19044.2604,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2023/01/17,19044.2486,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/12/20,19044.2364,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/11/15,19044.2251,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/10/18,19044.213,{InfoString} {MTU},{InfoString} | {MTU}
@@ -1461,11 +1581,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/05/27,19041.264,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2020/04/16,19041.208,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/03/15,19041.1586,{InfoString} {MTU},{InfoString} | {MTU}
-1011,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/03/15,19041.1586,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,21H1,Pro,2022/02/15,19041.1526,{InfoString} {MTU},{InfoString} | {MTU}
-1011,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,21H2,Pro,2022/02/15,19041.1526,{InfoString} {MTU},{InfoString} | {MTU}
+1011,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/12/14,19041.1415,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,2004,Pro,2021/11/09,19041.1348,{InfoString} {MTU},{InfoString} | {MTU}
 1011,0,Information,Debug Channel,,,,Windows 10,20H2,Pro,2021/11/09,19041.1348,{InfoString} {MTU},{InfoString} | {MTU}
@@ -1543,6 +1663,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1101,0,Information,Operational Channel,,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 11,22H2,Pro,2022/10/18,22621.674,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 11,22H2,Pro,2022/09/20,22621.382,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 11,22H2,Pro,2023/03/21,22621.1413,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 11,22H2,Pro,2023/02/21,22621.1265,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 11,22H2,Pro,2023/01/17,22621.1105,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro,2022/09/20,22000.978,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro,2022/08/16,22000.856,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro,2022/07/19,22000.795,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
@@ -1555,12 +1678,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro,2021/12/14,22000.376,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro,2021/11/09,22000.318,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro,2021/09/16,22000.194,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro,2023/03/21,22000.1696,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro,2023/02/21,22000.1574,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro,2023/01/17,22000.1455,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro,2022/12/20,22000.1335,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro,2022/11/15,22000.1219,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro,2022/10/18,22000.1098,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 10,22H2,Pro,2023/03/21,19045.2728,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 10,22H2,Pro,2023/02/21,19045.2604,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 10,22H2,Pro,2023/01/17,19045.2486,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,22H2,Pro,2022/12/20,19045.2364,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,22H2,Pro,2022/11/15,19045.2251,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 10,21H2,Pro,2023/03/21,19044.2728,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 10,21H2,Pro,2023/02/21,19044.2604,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 10,21H2,Pro,2023/01/17,19044.2486,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,21H2,Pro,2022/12/20,19044.2364,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,21H2,Pro,2022/11/15,19044.2251,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,21H2,Pro,2022/10/18,19044.213,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
@@ -1615,11 +1747,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1101,0,Information,Operational Channel,,Start,,Windows 10,2004,Pro,2020/05/27,19041.264,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,2004,Pro,2020/04/16,19041.208,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,21H1,Pro,2022/03/15,19041.1586,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
-1101,0,Information,Operational Channel,,Start,,Windows 10,20H2,Pro,2022/03/15,19041.1586,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,21H2,Pro,2022/03/15,19041.1586,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 10,20H2,Pro,2022/03/15,19041.1586,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,21H1,Pro,2022/02/15,19041.1526,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
-1101,0,Information,Operational Channel,,Start,,Windows 10,20H2,Pro,2022/02/15,19041.1526,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,21H2,Pro,2022/02/15,19041.1526,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1101,0,Information,Operational Channel,,Start,,Windows 10,20H2,Pro,2022/02/15,19041.1526,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,20H2,Pro,2021/12/14,19041.1415,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,2004,Pro,2021/11/09,19041.1348,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1101,0,Information,Operational Channel,,Start,,Windows 10,20H2,Pro,2021/11/09,19041.1348,464xlat Enabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
@@ -1697,6 +1829,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1102,0,Information,Operational Channel,,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 11,22H2,Pro,2022/10/18,22621.674,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 11,22H2,Pro,2022/09/20,22621.382,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 11,22H2,Pro,2023/03/21,22621.1413,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 11,22H2,Pro,2023/02/21,22621.1265,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 11,22H2,Pro,2023/01/17,22621.1105,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro,2022/09/20,22000.978,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro,2022/08/16,22000.856,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro,2022/07/19,22000.795,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
@@ -1709,12 +1844,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro,2021/12/14,22000.376,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro,2021/11/09,22000.318,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro,2021/09/16,22000.194,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro,2023/03/21,22000.1696,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro,2023/02/21,22000.1574,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro,2023/01/17,22000.1455,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro,2022/12/20,22000.1335,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro,2022/11/15,22000.1219,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro,2022/10/18,22000.1098,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 10,22H2,Pro,2023/03/21,19045.2728,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 10,22H2,Pro,2023/02/21,19045.2604,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 10,22H2,Pro,2023/01/17,19045.2486,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,22H2,Pro,2022/12/20,19045.2364,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,22H2,Pro,2022/11/15,19045.2251,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 10,21H2,Pro,2023/03/21,19044.2728,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 10,21H2,Pro,2023/02/21,19044.2604,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 10,21H2,Pro,2023/01/17,19044.2486,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,21H2,Pro,2022/12/20,19044.2364,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,21H2,Pro,2022/11/15,19044.2251,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,21H2,Pro,2022/10/18,19044.213,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
@@ -1769,11 +1913,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1102,0,Information,Operational Channel,,Stop,,Windows 10,2004,Pro,2020/05/27,19041.264,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,2004,Pro,2020/04/16,19041.208,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,21H1,Pro,2022/03/15,19041.1586,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
-1102,0,Information,Operational Channel,,Stop,,Windows 10,20H2,Pro,2022/03/15,19041.1586,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,21H2,Pro,2022/03/15,19041.1586,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 10,20H2,Pro,2022/03/15,19041.1586,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,21H1,Pro,2022/02/15,19041.1526,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
-1102,0,Information,Operational Channel,,Stop,,Windows 10,20H2,Pro,2022/02/15,19041.1526,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,21H2,Pro,2022/02/15,19041.1526,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
+1102,0,Information,Operational Channel,,Stop,,Windows 10,20H2,Pro,2022/02/15,19041.1526,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,20H2,Pro,2021/12/14,19041.1415,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,2004,Pro,2021/11/09,19041.1348,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
 1102,0,Information,Operational Channel,,Stop,,Windows 10,20H2,Pro,2021/11/09,19041.1348,464xlat Disabled: InterfaceLuid {InterfaceLuid}; Metric: {Metric}; RemotePrefix: {RemotePrefix}; RemotePrefixLength: {RemotePrefixLength}; LocalPrefix: {LocalPrefix}; LocalPrefixLength: {LocalPrefixLength},{InterfaceLuid} | {Metric} | {RemotePrefix} | {RemotePrefixLength} | {LocalPrefix} | {LocalPrefixLength}
@@ -1851,6 +1995,9 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1103,0,Information,Operational Channel,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 11,22H2,Pro,2022/10/18,22621.674,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 11,22H2,Pro,2022/09/20,22621.382,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 11,22H2,Pro,2023/03/21,22621.1413,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 11,22H2,Pro,2023/02/21,22621.1265,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 11,22H2,Pro,2023/01/17,22621.1105,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro,2022/09/20,22000.978,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro,2022/08/16,22000.856,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro,2022/07/19,22000.795,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
@@ -1863,12 +2010,21 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro,2021/12/14,22000.376,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro,2021/11/09,22000.318,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro,2021/09/16,22000.194,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro,2023/03/21,22000.1696,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro,2023/02/21,22000.1574,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro,2023/01/17,22000.1455,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro,2022/12/20,22000.1335,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro,2022/11/15,22000.1219,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro,2022/10/18,22000.1098,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 11,21H2,Pro-Dev,1970/01/01,21996.1,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 10,22H2,Pro,2023/03/21,19045.2728,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 10,22H2,Pro,2023/02/21,19045.2604,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 10,22H2,Pro,2023/01/17,19045.2486,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,22H2,Pro,2022/12/20,19045.2364,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,22H2,Pro,2022/11/15,19045.2251,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 10,21H2,Pro,2023/03/21,19044.2728,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 10,21H2,Pro,2023/02/21,19044.2604,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 10,21H2,Pro,2023/01/17,19044.2486,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,21H2,Pro,2022/12/20,19044.2364,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,21H2,Pro,2022/11/15,19044.2251,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,21H2,Pro,2022/10/18,19044.213,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
@@ -1923,11 +2079,11 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1103,0,Information,Operational Channel,,,,Windows 10,2004,Pro,2020/05/27,19041.264,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,2004,Pro,2020/04/16,19041.208,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,21H1,Pro,2022/03/15,19041.1586,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
-1103,0,Information,Operational Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,21H2,Pro,2022/03/15,19041.1586,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 10,20H2,Pro,2022/03/15,19041.1586,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,21H1,Pro,2022/02/15,19041.1526,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
-1103,0,Information,Operational Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,21H2,Pro,2022/02/15,19041.1526,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
+1103,0,Information,Operational Channel,,,,Windows 10,20H2,Pro,2022/02/15,19041.1526,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,20H2,Pro,2021/12/14,19041.1415,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,2004,Pro,2021/11/09,19041.1348,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
 1103,0,Information,Operational Channel,,,,Windows 10,20H2,Pro,2021/11/09,19041.1348,Remote Prefix Discovered: InterfaceLuid {InterfaceLuid}; Prefix: {Prefix}; PrefixLength: {PrefixLength},{InterfaceLuid} | {Prefix} | {PrefixLength}
